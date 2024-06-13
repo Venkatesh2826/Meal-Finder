@@ -50,7 +50,7 @@ header h1 {
 .search-area {
     position: relative;
     height: 280px;
-    background-image: url('/assets/pexels-enginakyurt-1435909.jpg');
+    background-image: url('https://images.pexels.com/photos/1435895/pexels-photo-1435895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-repeat: no-repeat;
     background-size: 100% 1000px;
     background-position: center top;
